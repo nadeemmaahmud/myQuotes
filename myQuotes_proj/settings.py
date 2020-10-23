@@ -8,7 +8,7 @@ SECRET_KEY = '8*%gwo9ykl91_=i-o7=irfias-mvxntqst(vttm_zbll=e0+iq'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['floating-bastion-69531.herokuapp.com/','127.0.0.1']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
