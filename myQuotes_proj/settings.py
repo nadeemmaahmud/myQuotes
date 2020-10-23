@@ -53,11 +53,11 @@ WSGI_APPLICATION = 'myQuotes_proj.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'myQuotes_DB',
-        'USER': 'nadeemmaahmud',
-        'PASSWORD': 'N@d!m25101997bD',
-        'HOST' : '127.0.0.1',
-        'PORT': '5432',
+        'NAME': 'd4dqfuochrglu2',
+        'USER': 'rpqoihgrfafvet',
+        'PASSWORD': '78ac9c3b856c27917b9b7249851a40fe478a3425b7182e8c0ab8a16930de1736',
+        'HOST' : 'ec2-18-210-180-94.compute-1.amazonaws.com',
+        'PORT': 5432,
     }
 }
 
